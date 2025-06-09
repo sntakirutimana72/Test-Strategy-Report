@@ -133,11 +133,6 @@ To support the testing strategy effectively, various tools and frameworks will b
 
 These tools support both manual and automated workflows, integrated into the CI/CD pipeline for faster feedback loops.
 
-## **Test Data Management**
-
-- Use **realistic but synthetic** data for user profiles, products, and transactions
-- Include edge cases (e.g., expired cards, out-of-stock items)
-
 ## Defect Management
 
 Defect management includes the complete lifecycle of issues identified during testing. The process covers:
@@ -151,6 +146,17 @@ Defect management includes the complete lifecycle of issues identified during te
 - **Jira** will be used as the central defect tracking tool. It will be integrated with test management and development workflows to streamline issue tracking.
 
 A **separate, detailed Defect Management Procedure Document** will be created to define the exact steps, responsibilities, SLAs, and communication protocols. This ensures consistency and traceability across all testing phases.
+
+## Timeline
+
+| **Focus Area**            | **Estimated Effort (%)** |
+| ------------------------- | ------------------------ |
+| **Functional Testing**    | 40–45%                   |
+| **Performance Testing**   | 15–20%                   |
+| **Security Testing**      | 10–15%                   |
+| **Compatibility Testing** | 10%                      |
+| **Integration Testing**   | 15–20%                   |
+
 
 ## Risk Assessment
 
