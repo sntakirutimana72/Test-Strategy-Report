@@ -149,13 +149,13 @@ A **separate, detailed Defect Management Procedure Document** will be created to
 
 ## Timeline
 
-| **Focus Area**            | **Estimated Effort (%)** |
-| ------------------------- | ------------------------ |
-| **Functional Testing**    | 40–45%                   |
-| **Performance Testing**   | 15–20%                   |
-| **Security Testing**      | 10–15%                   |
-| **Compatibility Testing** | 10%                      |
-| **Integration Testing**   | 15–20%                   |
+| **Focus Area**            | **Estimated Effort**          | **Notes**                                                                       |
+| ------------------------- | ----------------------------- | ------------------------------------------------------------------------------- |
+| **Functional Testing**    | 4–5 sprints (core focus)      | Begins in Sprint 1 and continues throughout; core user flows tested iteratively |
+| **Performance Testing**   | 1 sprint (dedicated or split) | Starts early with baseline checks, major load tests in a dedicated sprint later |
+| **Security Testing**      | 1 sprint (partial or full)    | Targeted toward mid/late sprints (e.g., 4–6); critical for payment workflows    |
+| **Compatibility Testing** | ~1 sprint (split across 2–3)  | Spread over mid to late sprints once features stabilize                         |
+| **Integration Testing**   | 2–3 sprints (overlapping)     | Begins as external APIs/stubs become available; tested iteratively              |
 
 
 ## Risk Assessment
