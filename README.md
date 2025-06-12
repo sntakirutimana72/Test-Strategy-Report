@@ -82,3 +82,9 @@ We will work with the QA Manager, developers, DevOps, and Testers
 
 - Testing will begin once user stories are defined and environments are available.
 - Exit criteria include full test execution, no open critical defects, successful regression and integration tests, and stakeholder sign-off.
+
+## Test Metrics
+
+Key quality indicators include **test coverage**, **defect density**, **pass/fail rates**, **mean time to resolution**, and **performance benchmarks**. 
+These will be tracked sprint over sprint to monitor quality trends.
+
