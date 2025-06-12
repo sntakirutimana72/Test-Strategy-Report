@@ -88,3 +88,9 @@ We will work with the QA Manager, developers, DevOps, and Testers
 Key quality indicators include **test coverage**, **defect density**, **pass/fail rates**, **mean time to resolution**, and **performance benchmarks**. 
 These will be tracked sprint over sprint to monitor quality trends.
 
+## Tools
+
+We will integrate various tools and frameworks with different types of testing. 
+Each tool is selected based on its ability to enhance test coverage, increase efficiency, and integrate with our development and deployment pipelines.
+Mainly, we will use Selenium, JIRA, Postman, Jenkins, GitHub actions, JMeter, TestRail, CI/CD, and OWASP ZAP.
+
