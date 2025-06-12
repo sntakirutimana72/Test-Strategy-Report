@@ -94,3 +94,6 @@ We will integrate various tools and frameworks with different types of testing.
 Each tool is selected based on its ability to enhance test coverage, increase efficiency, and integrate with our development and deployment pipelines.
 Mainly, we will use Selenium, JIRA, Postman, Jenkins, GitHub actions, JMeter, TestRail, CI/CD, and OWASP ZAP.
 
+## Defect Management
+
+This will have a separate lifecycle, and a separate governing document should be produced.
