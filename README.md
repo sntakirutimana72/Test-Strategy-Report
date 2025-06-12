@@ -112,3 +112,14 @@ Risk assessment is performed continuously throughout the project lifecycle. Key 
 - **Incomplete test coverage due to evolving requirements**: mitigated via modular, iterative testing and traceability matrices
 
 Each identified risk has an associated mitigation or contingency plan to minimize impact.
+
+## Review and Monitoring
+
+Testing progress will be reviewed through:
+
+- **Daily standups and sprint retrospectives**
+- **Burndown charts and dashboards in Jira**
+- **Weekly quality status reports** to stakeholders
+- **Root cause analysis (RCA)** sessions for major bugs or test failures
+
+Test cases, scripts, and results will be reviewed regularly by peers and leads to ensure quality and relevance. Automation scripts will undergo version control and code reviews. Metrics and defect trends will be monitored to drive continuous improvement in the QA process.
