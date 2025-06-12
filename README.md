@@ -2,6 +2,26 @@
 
 The Test Strategy Report is a high-level document that plans how a project's testing will be conducted.
 
+## Table of contents
+1. [Introduction](#introduction)
+2. [Overview](#project-overview)
+3. [SDLC Alignment](#sdlc-alignment)
+4. [Objectives & Scope](#objectives--scope)
+5. [Approach](#approach)
+6. [Testing Types](#testing-types)
+7. [Environment](#environment)
+8. [Estimation](#estimation)
+9. [Data Management](#data-management)
+10. [Deliverables](#deliverables)
+11. [Roles & Responsibilities](#roles--responsibilities)
+12. [Entry and Exit Criterion](#entry-and-exit-criterion)
+13. [Test Metrics](#test-metrics)
+14. [Tools](#tools)
+15. [Defect Management](#defect-management)
+16. [Timeline](#timeline)
+17. [Risk Assessment](#risk-assessment)
+18. [Review & Monitoring](#review-and-monitoring)
+
 ## **Introduction**
 
 This test strategy defines the approach for verifying and validating the e-commerce website. It ensures that all functional and non-functional aspects are tested effectively, including system integration, security, and performance under real-world conditions. This document aligns testing activities with the Agile software development lifecycle to ensure continuous quality assurance throughout the project.
@@ -78,7 +98,7 @@ The testing team will provide a full suite of documentation, including:
 
 We will work with the QA Manager, developers, DevOps, and Testers
 
-## Entry and Exit Criteria
+## Entry and Exit Criterion
 
 - Testing will begin once user stories are defined and environments are available.
 - Exit criteria include full test execution, no open critical defects, successful regression and integration tests, and stakeholder sign-off.
