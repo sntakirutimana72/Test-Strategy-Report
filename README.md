@@ -63,3 +63,13 @@ Internally, we will adopt **Work Breakdown Structure (WBS)** and **Test case poi
 - Use **realistic but synthetic** data for user profiles, products, and transactions
 - Include edge cases (e.g., expired cards, out-of-stock items)
 
+## **Deliverables**
+
+The testing team will provide a full suite of documentation, including:
+
+- A detailed test plan
+- Test case repository (manual and automated)
+- Daily and sprint-level execution reports
+- Bug and defect reports
+- Test summary and release sign-off reports
+- Load test analysis and security audit reports
