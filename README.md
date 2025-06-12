@@ -78,4 +78,7 @@ The testing team will provide a full suite of documentation, including:
 
 We will work with the QA Manager, developers, DevOps, and Testers
 
-  
+## Entry and Exit Criteria
+
+- Testing will begin once user stories are defined and environments are available.
+- Exit criteria include full test execution, no open critical defects, successful regression and integration tests, and stakeholder sign-off.
