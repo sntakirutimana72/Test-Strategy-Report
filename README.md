@@ -57,3 +57,9 @@ All environments will be refreshed regularly and pre-loaded with test data and m
 This outlines the effort, duration, and resources required to complete testing activities within each phase of the development cycle. It is essential for planning sprints, aligning testing with releases, and setting stakeholder expectations.
 
 Internally, we will adopt **Work Breakdown Structure (WBS)** and **Test case point method** interchangeably.
+
+## Data Management
+
+- Use **realistic but synthetic** data for user profiles, products, and transactions
+- Include edge cases (e.g., expired cards, out-of-stock items)
+
