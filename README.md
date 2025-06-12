@@ -15,7 +15,7 @@ The e-commerce platform allows users to:
 - Complete purchases via various payment gateways
 - Track orders post-purchase
 
-The system integrates with external payment gateways and inventory management systems and must remain performant under high user load, especially during sale events.
+The system integrates with external payment gateways and inventory management systems and must remain performant under high user load, especially during sales events.
 
 ## SDLC Alignment
 
@@ -100,7 +100,7 @@ This will have a separate lifecycle, and a separate governing document should be
 
 ## Timeline
 
-As part of Agile development custom, all testing activities and efforts will be conducted in sprints. Required effort and time will be calcuted based on available resources & other factoring conditions.
+As part of Agile development custom, all testing activities and efforts will be conducted in sprints. Required effort and time will be calculated based on available resources & other factoring conditions.
 
 ## Risk Assessment
 
