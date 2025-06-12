@@ -29,4 +29,10 @@ Testing is embedded within the Agile development lifecycle, executed in two-week
 - Confirm cross-platform compatibility
 - Validate successful integration with external services
 
-  
+## Approach
+
+- Functional testing will be performed using both manual and automated methods to validate user workflows.
+- Exploratory and structured testing will verify different scenarios, including edge cases.
+- Non-functional testing, such as performance, security, and compatibility, will be handled using specialized tools and executed in dedicated environments.
+- Integration testing with third-party systems will include contract, workflow, and failure path validation.
+
