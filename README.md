@@ -20,3 +20,13 @@ The system integrates with external payment gateways and inventory management sy
 ## SDLC Alignment
 
 Testing is embedded within the Agile development lifecycle, executed in two-week sprints. Test planning, execution, and regression cycles are integrated with sprint activities to ensure continuous validation. Regression and non-functional testing (e.g., performance and security) occur in parallel with sprint cycles and during hardening phases before production releases.
+
+## Objectives & Scope
+
+- Verify functional correctness of all key user flows
+- Ensure system stability under peak traffic
+- Validate the security of sensitive data, especially during payment
+- Confirm cross-platform compatibility
+- Validate successful integration with external services
+
+  
