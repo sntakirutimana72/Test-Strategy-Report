@@ -97,3 +97,7 @@ Mainly, we will use Selenium, JIRA, Postman, Jenkins, GitHub actions, JMeter, Te
 ## Defect Management
 
 This will have a separate lifecycle, and a separate governing document should be produced.
+
+## Timeline
+
+As part of Agile development custom, all testing activities and efforts will be conducted in sprints. Required effort and time will be calcuted based on available resources & other factoring conditions.
