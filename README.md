@@ -39,3 +39,16 @@ Testing is embedded within the Agile development lifecycle, executed in two-week
 ## Testing Types
 
 We will rely on unit, integration, security, performance, accessibility, regression, and compatibility testing.
+
+## Environment
+
+Various test environments will be maintained:
+
+- A development sandbox for early testing
+- **QA/Staging:** Functional, Integration, and performance testing
+- **Test Devices:** Mix of physical and emulated devices for compatibility checks, especially for **manual testing**
+- **Simulated Payment Environment:** For safe testing of payment flows
+- **Production-like:** Final regression & soak testing prior to release
+
+All environments will be refreshed regularly and pre-loaded with test data and mock services as needed.
+
