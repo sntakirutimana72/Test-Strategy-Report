@@ -73,3 +73,9 @@ The testing team will provide a full suite of documentation, including:
 - Bug and defect reports
 - Test summary and release sign-off reports
 - Load test analysis and security audit reports
+
+## Roles & Responsibilities
+
+We will work with the QA Manager, developers, DevOps, and Testers
+
+  
