@@ -101,3 +101,14 @@ This will have a separate lifecycle, and a separate governing document should be
 ## Timeline
 
 As part of Agile development custom, all testing activities and efforts will be conducted in sprints. Required effort and time will be calcuted based on available resources & other factoring conditions.
+
+## Risk Assessment
+
+Risk assessment is performed continuously throughout the project lifecycle. Key risks include:
+
+- **Integration instability with third-party services**: mitigated via mocks and fallback mechanisms
+- **Security vulnerabilities in the checkout flow**: mitigated by penetration testing and compliance with OWASP standards
+- **Load failures during peak sales**: addressed with early performance testing and cloud-based scaling validation
+- **Incomplete test coverage due to evolving requirements**: mitigated via modular, iterative testing and traceability matrices
+
+Each identified risk has an associated mitigation or contingency plan to minimize impact.
