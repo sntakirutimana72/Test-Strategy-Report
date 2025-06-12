@@ -16,3 +16,7 @@ The e-commerce platform allows users to:
 - Track orders post-purchase
 
 The system integrates with external payment gateways and inventory management systems and must remain performant under high user load, especially during sale events.
+
+## SDLC Alignment
+
+Testing is embedded within the Agile development lifecycle, executed in two-week sprints. Test planning, execution, and regression cycles are integrated with sprint activities to ensure continuous validation. Regression and non-functional testing (e.g., performance and security) occur in parallel with sprint cycles and during hardening phases before production releases.
