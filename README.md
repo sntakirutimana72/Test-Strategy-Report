@@ -36,3 +36,6 @@ Testing is embedded within the Agile development lifecycle, executed in two-week
 - Non-functional testing, such as performance, security, and compatibility, will be handled using specialized tools and executed in dedicated environments.
 - Integration testing with third-party systems will include contract, workflow, and failure path validation.
 
+## Testing Types
+
+We will rely on unit, integration, security, performance, accessibility, regression, and compatibility testing.
